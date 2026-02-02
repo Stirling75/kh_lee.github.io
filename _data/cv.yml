@@ -28,8 +28,8 @@ cv:
         url: "https://security.korea.ac.kr"
         area: CyberSecurity
         studyType: "Ph.D. (Advisor: Ji Won Yoon)"
-        start_date: 2022.03
-        end_date: 2026.02
+        start_date: "2022-03"
+        end_date: "2026-02"
         score: ""
         courses: "Homomorphic Encryption"
 
@@ -38,8 +38,8 @@ cv:
         url: "https://security.korea.ac.kr"
         area: CyberSecurity
         studyType: "M.S (Advisor: Ji Won Yoon)"
-        start_date: 2020.03
-        end_date: 2022.02
+        start_date: "2020-03"
+        end_date: "2022-02"
         score: ""
         courses: "Homomorphic Encryption"
 
@@ -48,8 +48,8 @@ cv:
         url: "https://mathedu.korea.ac.kr/mathedu/index.do"
         area: Mathematics Education
         studyType: B.S 
-        start_date: 2016
-        end_date: 2020
+        start_date: "2016-03"
+        end_date: "2020-02"
         score: ""
         # courses: "Homomorphic Encryption"
 
