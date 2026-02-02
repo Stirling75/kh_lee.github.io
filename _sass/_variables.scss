@@ -9,8 +9,8 @@
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
+// $blue-color: #0076df !default;
+// $blue-color-dark: #00369f !default;
 $cyan-color: #2698ba !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
@@ -18,11 +18,20 @@ $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
+// $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
+// 아래 값들을 수정하거나 덮어쓰세요
+$blue-color: #05408a !default;      // 더 깊고 차분한 네이비 블루
+$blue-color-dark: #002147 !default; // 옥스퍼드 블루 스타일
+$purple-color: #05408a !default;    // 기존 보라색 자리에 이 색을 넣으면 전체 톤이 바뀝니다.
+
+// 포인트 컬러로 청록색 계열을 섞으면 아주 세련되어 보입니다.
+$global-theme-color: $blue-color;
+$global-hover-color: $cyan-color;
+
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
