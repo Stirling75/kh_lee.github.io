@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Stirling75.github.io/kh_lee.github.io/sitemap.xml
+Sitemap: https://Stirling75.github.io/sitemap.xml
