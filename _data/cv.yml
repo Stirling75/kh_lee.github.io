@@ -27,7 +27,7 @@ cv:
         location: Seoul, South Korea
         url: https://security.korea.ac.kr
         area: CyberSecurity
-        studyType: Ph.D. (Advisor: Ji Won Yoon)
+        studyType: "Ph.D. (Advisor: Ji Won Yoon)""
         start_date: 2022.03
         end_date: 2026.02
         score: ""
@@ -37,7 +37,7 @@ cv:
         location: Seoul, South Korea
         url: https://security.korea.ac.kr
         area: CyberSecurity
-        studyType: M.S (Advisor: Ji Won Yoon)
+        studyType: "M.S (Advisor: Ji Won Yoon)"
         start_date: 2020.03
         end_date: 2022.02
         score: ""
