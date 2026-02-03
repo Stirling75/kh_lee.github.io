@@ -63,17 +63,14 @@ cv:
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
       - title: Semester High Honors
-        authors:
-          - "Spring 2017, Spring 2018, Fall 2019"
         date: 2016, 2018, 2019
         awarder: Korea University
+        summary: Spring 2017, Spring 2018, Fall 2019
 
       - title: Semester Honors
-        authors:
-          - "Spring 2016, Fall 2016, Spring 2019"
         date: 2016, 2019
         awarder: Korea University
-        # summary: Awarded for outstanding scientific achievement
+        summary: Spring 2016, Fall 2016, Spring 2019
 
     ScholarShips:
       - title: Science Prodigy Scholarshiip
