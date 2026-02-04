@@ -73,7 +73,7 @@ cv:
         summary: Spring 2016, Fall 2016, Spring 2019
 
     ScholarShips:
-      - title: Science Prodigy Scholarshiip
+      - name: Science Prodigy Scholarshiip
         date: 2016-03
         awarder: Korea University
 
@@ -88,7 +88,6 @@ cv:
     
     Skills:
       - name: Programming Languages
-        level: Master
         icon: fa-solid fa-gear
         keywords: "C, Python, Golang, Rust"
 
