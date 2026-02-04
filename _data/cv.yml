@@ -89,7 +89,7 @@ cv:
     Skills:
       - name: Programming Languages
         level: Master
-        icon: fa-solid <i class="fa-solid fa-solidLarge fa-gear">‌</i>
+        icon: fa-solid fa-gear
         keywords: "C, Python, Golang, Rust"
 
     Languages:
