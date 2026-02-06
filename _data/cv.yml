@@ -72,10 +72,11 @@ cv:
         awarder: Korea University
         summary: Spring 2016, Fall 2016, Spring 2019
 
-    ScholarShips:
-      - name: Science Prodigy Scholarshiip
-        date: 2016-03
-        awarder: Korea University
+    Scholarships:  # 대소문자 주의 (보통 Scholarships)
+    - title: "Science Prodigy Scholarship"  # name 대신 title
+      issuer: "Korea University"             # awarder 대신 issuer
+      year: "2016"                           # date 대신 year
+      # description: "Full academic scholarship for undergraduate studies." # 설명 추가 가능
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
@@ -89,7 +90,7 @@ cv:
     Skills:
       - name: Programming Languages
         icon: fa-solid fa-gear
-        keywords: "C, Python, Golang, Rust"
+        keywords: "C, Python, (Golang, Rust)"
 
     Languages:
       - name: Korean
