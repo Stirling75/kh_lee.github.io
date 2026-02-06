@@ -78,11 +78,12 @@ cv:
         awarder: Korea University
         summary: Spring 2016, Fall 2016, Spring 2019
 
-    Scholarships: 
-    - title: "Science Prodigy Scholarship" 
-      issuer: "Korea University"            
-      year: "2016"                           
-      # description: "Full academic scholarship for undergraduate studies."
+    Scholarships:
+      - title: "Science Prodigy Scholarship"
+        issuer: "Korea University"
+        year: "2016"
+        description: "Full academic scholarship for undergraduate studies."
+
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
